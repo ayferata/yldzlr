@@ -9,6 +9,7 @@ public class Main {
             
                 if (i == 0 || i == 2) {
                     letter[i][j] = " * ";
+                    
                 } else if (j == 0 || j == 3) {
                     letter[i][j] = " * ";
                 } else {
